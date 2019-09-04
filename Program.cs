@@ -12,7 +12,7 @@ namespace PiCalculation
             stopwatch.Start();
 
             string fileName = @"C:\Users\alvydas\Documents\Constants\Pi_10mln.txt";
-            int stringLength = 1000000;
+            int stringLength = 100000;
             int shuffleNumber = 10;
 
             string pi = File.ReadAllText(fileName);
