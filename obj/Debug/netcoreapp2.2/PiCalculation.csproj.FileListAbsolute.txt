@@ -1,0 +1,11 @@
+C:\Users\alvydas\source\repos\PiCalculation\bin\Debug\netcoreapp2.2\PiCalculation.deps.json
+C:\Users\alvydas\source\repos\PiCalculation\bin\Debug\netcoreapp2.2\PiCalculation.runtimeconfig.json
+C:\Users\alvydas\source\repos\PiCalculation\bin\Debug\netcoreapp2.2\PiCalculation.runtimeconfig.dev.json
+C:\Users\alvydas\source\repos\PiCalculation\bin\Debug\netcoreapp2.2\PiCalculation.dll
+C:\Users\alvydas\source\repos\PiCalculation\bin\Debug\netcoreapp2.2\PiCalculation.pdb
+C:\Users\alvydas\source\repos\PiCalculation\obj\Debug\netcoreapp2.2\PiCalculation.csprojAssemblyReference.cache
+C:\Users\alvydas\source\repos\PiCalculation\obj\Debug\netcoreapp2.2\PiCalculation.csproj.CoreCompileInputs.cache
+C:\Users\alvydas\source\repos\PiCalculation\obj\Debug\netcoreapp2.2\PiCalculation.AssemblyInfoInputs.cache
+C:\Users\alvydas\source\repos\PiCalculation\obj\Debug\netcoreapp2.2\PiCalculation.AssemblyInfo.cs
+C:\Users\alvydas\source\repos\PiCalculation\obj\Debug\netcoreapp2.2\PiCalculation.dll
+C:\Users\alvydas\source\repos\PiCalculation\obj\Debug\netcoreapp2.2\PiCalculation.pdb
