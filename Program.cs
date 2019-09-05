@@ -11,7 +11,9 @@ namespace PiCalculation
             Stopwatch stopwatch = new Stopwatch();
             stopwatch.Start();
 
-            string fileName = @"C:\Users\alvydas\Documents\Constants\Pi_10mln.txt";
+            //string fileName = @"C:\Users\alvydas\Documents\Constants\Pi_10mln.txt";
+            //string fileName = @"C:\Users\alvydas\Documents\Constants\E_2mln.txt";
+            string fileName = @"C:\Users\alvydas\Documents\Constants\2sqrt_10mln.txt";
             int stringLength = 100000;
             int shuffleNumber = 10;
 
